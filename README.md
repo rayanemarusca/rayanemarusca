@@ -6,5 +6,6 @@
   * Nordestina :cactus: :sun_with_face:
   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayanemarusca&layout=compact&theme=radical)](https://github.com/rayanemarusca/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayanemarusca&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayanemarusca&layout=compact&theme=radical)](https://github.com/rayanemarusca/github-readme-stats)
+
