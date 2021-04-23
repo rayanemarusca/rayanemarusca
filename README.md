@@ -1,4 +1,4 @@
-# Rayane Marusca <h1> 👋
+# Rayane Marusca <h1>
   
   * 24 anos
   * 30/07 :leo: :birthday:
