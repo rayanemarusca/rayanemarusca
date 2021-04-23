@@ -1,10 +1,14 @@
-### Hi there 👋
+# Rayane Marusca <h1> 👋
+  
+  * 24 anos
+  * 30/07 :leo: :birthday:
+  * Brasileira :palm_tree: 
+  * Nordestina :cactus: :sun_with_face:
+  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayanemarusca&layout=compact&theme=radical)](https://github.com/rayanemarusca/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayanemarusca&show_icons=true&theme=radical)
 
-<!--
-**rayanemarusca/rayanemarusca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
