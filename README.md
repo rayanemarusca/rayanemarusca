@@ -1,7 +1,7 @@
 # Rayane Marusca <h1>
   
-  * 24 anos
-  * 30/07 :leo: :birthday:
+  * 27 anos
+  * :leo: :birthday:
   * Brasileira :palm_tree: 
   * Nordestina :cactus: :sun_with_face:
   
